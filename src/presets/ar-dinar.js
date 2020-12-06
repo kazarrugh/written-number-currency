@@ -6,7 +6,7 @@ const preset = {
     return format(amount, "دنانير", "دينار");
   },
   precisionFormatter(amount) {
-    return format(amount, "مليمات", "مليم");
+    return format(amount, "دراهم", "درهم");
   }
 };
 
