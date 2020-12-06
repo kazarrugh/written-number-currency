@@ -4,7 +4,7 @@ var preset = {
     return format(amount, "dinar", "dinars");
   },
   precisionFormatter(amount) {
-    return format(amount, "millime", "millimes");
+    return format(amount, "dirham", "dirhams");
   }
 };
 
